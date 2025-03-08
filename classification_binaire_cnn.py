@@ -11,9 +11,9 @@ import matplotlib.pyplot as plt
 # 1. Chargement des images depuis les dossiers avec augmentation de données
 
 # Définition des chemins des datasets
-train_dir = "/Users/lagnanadiop/mon-projet-docker/fichiers-notebook/chest_xray_data/chest_xray/train/"
-val_dir = "/Users/lagnanadiop/mon-projet-docker/fichiers-notebook/chest_xray_data/chest_xray/val/"
-test_dir = "/Users/lagnanadiop/mon-projet-docker/fichiers-notebook/chest_xray_data/chest_xray/test/"
+train_dir = "/chest_xray_data/chest_xray/train/"
+val_dir = "/chest_xray_data/chest_xray/val/"
+test_dir = "/chest_xray_data/chest_xray/test/"
 
 
 # Paramètres
